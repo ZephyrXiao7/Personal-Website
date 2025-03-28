@@ -1,3 +1,37 @@
 ---
 title: "Work"
 ---
+
+I'm passionate about exploring the intersections of history, technology, and culture. Whether delving into archival research or planning my next leisure project, my work is always driven by curiosity and a desire to bridge past and present.
+
+## Current Projects
+
+### Master Thesis
+**"Between Homes and Records: Uxorilocal and Non-Virilocal Practices, Record-Keeping, and Reconciliation in Late Imperial China"**
+
+I'm currently immersed in my master thesis, where I explore the complexities of family life in 16th to 18th century South China. My research investigates how traditional family norms were both recorded and reconciled with everyday realities, focusing on uxorilocal and non-virilocal practices and the role of record-keeping in shaping familial relationships.
+
+### Gaming on PS5 {.mt-4}
+Alongside my academic work, I'm finalizing plans for some dedicated gaming time on my PS5 during the upcoming summer break—a well-deserved pause that fuels my creativity and provides a fun counterbalance to my research.
+
+## Professional Experience {.mt-5}
+
+### Graduate Student Research Assistant
+**Harvard University** | *09/2023 to Present*
+
+At Harvard, I contribute to the China Biographical Database (CBDB) Project. My role involves:
+
+- Collecting and curating biographical texts and data using digital humanities tools
+- Reading and classifying biographical metadata to improve the database's accuracy and usability
+- Coding and leveraging large language models to process and clean data, ensuring the integrity and reliability of our collected information
+
+## Past Projects {.mt-5}
+
+### Senior Thesis
+I explored the evolution of education in early Ming dynasty China by examining the establishment and later abolishment of frontier schools, offering insights into historical governance and cultural shifts.
+
+### Books in China Project
+As a research assistant for the Books in China project, I helped compile and analyze data related to Chinese literary history. [Learn more about the project here](https://www.books.china-studies.harvard.edu).
+
+### On-Campus Work in Madison, Wisconsin
+I also gained valuable experience through various part-time roles on campus, where I developed skills in organization, research, and communication.

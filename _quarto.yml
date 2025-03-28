@@ -23,11 +23,23 @@ website:
         href: mailto:wenxin_xiao@g.harvard.edu
 
   page-footer:
-    background: light
-    left: " 2024 Wenxin Xiao. All rights reserved."
+    left: 
+      - text: " 2025 Wenxin Xiao. All rights reserved."
+    center:
+      - text: "Made with"
+      - icon: heart-fill
+        href: https://quarto.org
+      - text: "and Quarto"
     right: 
       - icon: github
         href: https://github.com/ZephyrXiao7
+      - icon: envelope
+        href: mailto:wenxin_xiao@g.harvard.edu
+      - icon: film
+        text: "Blue Bird"
+        href: https://liz-bluebird.com/
+    background: light
+    border: true
 
 format:
   html:
