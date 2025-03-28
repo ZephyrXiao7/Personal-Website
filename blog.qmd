@@ -1,0 +1,14 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+Welcome to my blog! Here you'll find my thoughts on history, technology, gaming, and the intersections between them. Feel free to explore posts by category or scroll through the chronological list below.

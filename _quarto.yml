@@ -16,6 +16,9 @@ website:
       - text: "Work"
         href: work.qmd
         icon: briefcase
+      - text: "Blog"
+        href: blog.qmd
+        icon: pencil-square
     right:
       - icon: github
         href: https://github.com/ZephyrXiao7

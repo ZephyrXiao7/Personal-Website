@@ -1,0 +1,21 @@
+---
+title: "Digital Tools in Historical Research"
+author: "Wenxin Xiao"
+date: "2025-03-15"
+categories: [research, digital humanities]
+image: "dh-tools.jpg"
+---
+
+The intersection of digital tools and historical research has opened up new possibilities for understanding our past. Working with databases like CBDB has shown me how technology can transform the way we approach historical data.
+
+## The Power of Digital Tools
+
+Digital humanities tools allow us to:
+- Process large volumes of historical data
+- Identify patterns that might be missed in traditional research
+- Create visualizations that make complex relationships clear
+- Share findings with a global audience
+
+## Looking Forward
+
+As we continue to develop new tools and methodologies, the potential for discovering new insights about our past grows exponentially. The challenge lies in maintaining the rigorous standards of historical research while embracing these new possibilities.
