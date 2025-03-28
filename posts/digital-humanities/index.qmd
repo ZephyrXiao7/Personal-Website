@@ -5,17 +5,3 @@ date: "2025-03-15"
 categories: [research, digital humanities]
 image: "dh-tools.jpg"
 ---
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-## The Power of Digital Tools
-
-Digital humanities tools allow us to:
-- Process large volumes of historical data
-- Identify patterns that might be missed in traditional research
-- Create visualizations that make complex relationships clear
-- Share findings with a global audience
-
-## Looking Forward
-
-As we continue to develop new tools and methodologies, the potential for discovering new insights about our past grows exponentially. The challenge lies in maintaining the rigorous standards of historical research while embracing these new possibilities.
