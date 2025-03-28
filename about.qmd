@@ -2,7 +2,12 @@
 title: "About Me"
 image: Images/diandian.png
 about:
-    template: trestles
+    template: jolla
+    image-shape: round
+    links:
+        - icon: github
+          text: Github
+          href: https://github.com/ZephyrXiao7
 ---
 
 Hi there!
