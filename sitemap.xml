@@ -1,15 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ZephyrXiao7.github.io/Personal-Website/work.html</loc>
-    <lastmod>2025-03-28T18:35:55.586Z</lastmod>
+    <loc>https://ZephyrXiao7.github.io/Personal-Website/blog.html</loc>
+    <lastmod>2025-03-28T18:40:59.545Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ZephyrXiao7.github.io/Personal-Website/posts/digital-humanities/index.html</loc>
+    <lastmod>2025-03-28T18:40:59.545Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ZephyrXiao7.github.io/Personal-Website/posts/gaming-history/index.html</loc>
+    <lastmod>2025-03-28T18:40:59.545Z</lastmod>
   </url>
   <url>
     <loc>https://ZephyrXiao7.github.io/Personal-Website/index.html</loc>
-    <lastmod>2025-03-28T18:35:55.586Z</lastmod>
+    <lastmod>2025-03-28T18:40:59.545Z</lastmod>
   </url>
   <url>
     <loc>https://ZephyrXiao7.github.io/Personal-Website/about.html</loc>
-    <lastmod>2025-03-28T18:35:55.586Z</lastmod>
+    <lastmod>2025-03-28T18:40:59.544Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ZephyrXiao7.github.io/Personal-Website/posts/welcome/index.html</loc>
+    <lastmod>2025-03-28T18:40:59.545Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ZephyrXiao7.github.io/Personal-Website/work.html</loc>
+    <lastmod>2025-03-28T18:40:59.545Z</lastmod>
   </url>
 </urlset>
