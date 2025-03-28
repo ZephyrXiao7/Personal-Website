@@ -4,16 +4,37 @@ project:
 website:
   title: "WX's Blog"
   navbar:
-    right:
+    background: primary
+    search: true
+    left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - work.qmd
+        icon: house
+      - text: "About"
+        href: about.qmd
+        icon: person-circle
+      - text: "Work"
+        href: work.qmd
+        icon: briefcase
+    right:
+      - icon: github
+        href: https://github.com/ZephyrXiao7
+      - icon: envelope
+        href: mailto:wenxin_xiao@g.harvard.edu
+
+  page-footer:
+    background: light
+    left: " 2024 Wenxin Xiao. All rights reserved."
+    right: 
+      - icon: github
+        href: https://github.com/ZephyrXiao7
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: cosmo
+      dark: darkly
     css: styles.css
     toc: true
+    code-copy: true
+    code-overflow: wrap
