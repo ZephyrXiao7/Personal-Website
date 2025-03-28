@@ -1,0 +1,8 @@
+---
+title: "About"
+image: Images/diandian.png
+about:
+    template: trestles
+---
+
+Some fake story about myself.

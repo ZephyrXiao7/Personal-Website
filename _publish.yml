@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 5ee3c138-1a65-4b7f-a956-8177573319ee
+      url: https://wxxiao.quarto.pub/wxs-blog
