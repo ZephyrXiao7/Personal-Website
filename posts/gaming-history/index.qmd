@@ -1,20 +1,8 @@
 ---
-title: "Gaming and Historical Narratives"
+title: "Why do we use it?"
 author: "Wenxin Xiao"
 date: "2025-02-28"
 categories: [gaming, history]
 ---
 
-As both a historian and a gamer, I've always been fascinated by how video games interpret and represent historical narratives. The immersive nature of gaming provides a unique way to engage with historical contexts.
-
-## Historical Accuracy vs. Entertainment
-
-Modern video games often strive to balance historical accuracy with entertainment value. This balance raises interesting questions:
-
-- How do game developers choose which historical elements to emphasize?
-- What role does player agency play in historical narratives?
-- Can games serve as effective tools for historical education?
-
-## Personal Gaming Experience
-
-My recent gaming sessions on PS5 have made me reflect on how digital entertainment can complement academic research. While games shouldn't be considered primary historical sources, they offer valuable insights into how we interpret and relate to history in contemporary culture.
+It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
